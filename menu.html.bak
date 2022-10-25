@@ -415,12 +415,12 @@
 													
                                 <div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/BrujaRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Poseidon.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Hahandra</span>
+                                                <span>Boze Vode</span>
                                             </h5>
-                                            <small class="fst-italic">Jefe final Winterfall</small>
+                                            <small class="fst-italic">Jefe final Atlantis</small>
                                         </div>
                                     </div>
                                 </div>
@@ -430,7 +430,7 @@
                                         <img class="flex-shrink-0 img-fluid rounded" src="img/CastilloRedes.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Winterfall</span>
+                                                <span>Atlantis</span>
                                               
                                             </h5>
                                             <small class="fst-italic">Base principal</small>
@@ -440,10 +440,10 @@
 								
                                 <div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/MamutRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/uRF.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Mamut</span>  
+                                                <span>Salo</span>  
                                            </h5>
                                             <small class="fst-italic">Enemigo mediano</small>
                                         </div>
@@ -452,10 +452,10 @@
 								
 								<div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/ReyHieloRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Maribel.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Rey Fannar</span>
+                                                <span>Maribel</span>
                                               
                                             </h5>
                                             <small class="fst-italic">Líder</small>
@@ -465,10 +465,10 @@
 								
                                 <div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/YetiRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/caballitoMar.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Yeti</span>
+                                                <span>Morski</span>
                                             </h5>
                                             <small class="fst-italic">Enemigo mediano</small>
                                         </div>
@@ -477,10 +477,10 @@
 								
 								<div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/CanonNieveRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/ancla.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Spay Nieve</span>
+                                                <span>Tuex</span>
                                               
                                             </h5>
                                             <small class="fst-italic">Torreta</small>
@@ -490,10 +490,10 @@
 								
                                 <div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/ChupaRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Axu.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Chup</span>
+                                                <span>Axu</span>
                                                 
                                             </h5>
                                             <small class="fst-italic">Enemigo pequeño</small>
@@ -506,7 +506,7 @@
                                         <img class="flex-shrink-0 img-fluid rounded" src="img/munecoRedes.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Snow Man</span>
+                                                <span>Suw Balony</span>
                                               
                                             </h5>
                                             <small class="fst-italic">Torreta</small>
@@ -516,10 +516,10 @@
 								
                                 <div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/PinguRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/cangrejo.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Frederick</span>
+                                                <span>Ginrelk</span>
                                              
                                             </h5>
                                             <small class="fst-italic">Enemigo pequeño</small>
@@ -532,7 +532,7 @@
                                         <img class="flex-shrink-0 img-fluid rounded" src="img/GuardianRedes.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Snow Keeper</span>
+                                                <span>Pium</span>
                                               
                                             </h5>
                                             <small class="fst-italic">Torreta</small>
@@ -542,10 +542,10 @@
 								
                                 <div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/GoblinRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Sireno.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                                <span>Go BlinBlin</span>
+                                                <span>Konj</span>
                                             
                                             </h5>
                                             <small class="fst-italic">Enemigo pequeño</small>
