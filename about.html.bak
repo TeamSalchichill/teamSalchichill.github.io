@@ -98,8 +98,8 @@
                     <div class="col-lg-6">
                         <h5 class="section-title ff-secondary text-start text-primary fw-normal">Sobre nosotros</h5>
                         <h1 class="mb-4">Bienvenido a Team Salchichill</h1>
-                        <p class="mb-4">La defensa de Trost es un proyecto de universidad realizado por un grupo de 5 estudiantes</p>
-                        <p class="mb-4">La defensa de Trost es un frenético juego que junta el tower defense y el roguelike a lo largo de diferentes mundos con una gran cantidad de mecánicas, enemigos y torres, tendrás que conseguir defender cada zona para poder recuperar la paz de Trost</p>
+                        <p class="mb-4">Somos un grupo de 5 estudiantes del grado en diseño y desarrollo en videojuegos que hemos creado una empresa desarrolladora de videojuegos, Team Salchichill, creadora del videojuego "Overcharged" y en proceso de creación de "La Defensa de Trost"</p>
+                        
                     </div>
                 </div>
             </div>
@@ -123,10 +123,8 @@
                             <h5 class="mb-0">David Pozo Sánchez</h5>
                             <small>Programador principal, diseñador, editor de vídeo, gestor de proyecto, itch.io y YouTube</small>
                             <div class="d-flex justify-content-center mt-3">
-                               <p> </p>
-                               <p> </p>
-							   <p> </p>
-                               <p> </p>
+                               <a href="https://twitter.com/DavidPS_dev" target="_blank"> <img src="img/twitter.png" alt="Pasteles" style="width: 80px; margin-right: 40px" /> </a>		 
+							   <a href="https://www.instagram.com/davidps_dev/" target="_blank"> <img src="img/instagram.png" alt="Pasteles" style="width: 80px;" /> </a>
                             </div>
                         </div>
                     </div>
@@ -138,10 +136,8 @@
                             <h5 class="mb-0">Iván Pérez Ciruelos</h5>
                             <small>Modelador 3D, animador 3D, diseñador, VFX, apoyo en programación y gestor de Twitter.</small>
                             <div class="d-flex justify-content-center mt-3">
-                                <p> </p>
-                                <p> </p>
-							    <p> </p>
-                                <p> </p>
+                                <a href="https://twitter.com/ivanperezc__" target="_blank"> <img src="img/twitter.png" alt="Pasteles" style="width: 80px; margin-right: 40px" /> </a>		 
+							    <a href="https://www.instagram.com/ivanperezc_/" target="_blank"> <img src="img/instagram.png" alt="Pasteles" style="width: 80px;" /> </a>
                             </div>
                         </div>
                     </div>
@@ -153,10 +149,8 @@
                             <h5 class="mb-0">Roberto Alegre Marcos</h5>
                             <small>Modelador 3D, animador 3D, diseñador, sonido y gestor de TikTok.</small>
                             <div class="d-flex justify-content-center mt-3">
-                                <p> </p>
-                                <p> </p>
-							    <p> </p>
-                                <p> </p>
+                                <a href="https://twitter.com/Roberalegre13" target="_blank"> <img src="img/twitter.png" alt="Pasteles" style="width: 80px; margin-right: 40px" /> </a>		 
+							    <a href="https://www.instagram.com/3d_roberalegre/" target="_blank"> <img src="img/instagram.png" alt="Pasteles" style="width: 80px;" /> </a>
                             </div>
                         </div>
                     </div>
@@ -168,10 +162,8 @@
                             <h5 class="mb-0">Juan Higuero López</h5>
                             <small>Modelador 3D, animador 3D, diseñador y gestor de Instagram.</small>
                             <div class="d-flex justify-content-center mt-3">
-                               <p> </p>
-                               <p> </p>
-							   <p> </p>
-                               <p> </p>
+                              <a href="https://twitter.com/TeamSalchichill?s=20" target="_blank"> <img src="img/twitter.png" alt="Pasteles" style="width: 80px; margin-right: 40px" /> </a>		 
+							  <a href="https://www.instagram.com/teamsalchichill/" target="_blank"> <img src="img/instagram.png" alt="Pasteles" style="width: 80px;" /> </a>
                             </div>
                         </div>
                     </div>
@@ -183,10 +175,9 @@
                             <h5 class="mb-0">Pablo Burgaleta de la Peña</h5>
                             <small>Diseñador principal y artista 2D.</small>
                             <div class="d-flex justify-content-center mt-3"> 
-                                <p> </p>
-                                <p> </p>
-							    <p> </p>
-                                <p> </p>
+							<a href="https://twitter.com/TeamSalchichill?s=20" target="_blank"> <img src="img/twitter.png" alt="Pasteles" style="width: 80px; margin-right: 40px" /> </a>		 
+							<a href="https://www.instagram.com/teamsalchichill/" target="_blank"> <img src="img/instagram.png" alt="Pasteles" style="width: 80px;" /> </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -204,14 +195,13 @@
             <div class="container">
                 <div class="copyright">
                     <div class="row">
-                        <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                             <a class="border-bottom" href="#">@TeamSalchichill</a>  
-							
-							<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-							
-                        </div>
                         <div class="col-md-6 text-center text-md-end">
-                            
+							<a href="https://teamsalchichill.itch.io/la-defensa-de-trost" target="_blank"> <img src="img/ichio.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a href="https://twitter.com/TeamSalchichill?s=20" target="_blank"> <img src="img/twitter.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a href="https://www.youtube.com/channel/UCJ1A2R_n6q1AA3j-7plyBLg" target="_blank"> <img src="img/youtube.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a href="https://www.instagram.com/teamsalchichill/" target="_blank"> <img src="img/instagram.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a href="https://www.tiktok.com/@teamsalchichill" target="_blank"> <img src="img/tiktok.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a class="border-bottom" href="https://linktr.ee/teamsalchichill">@TeamSalchichill</a> 
                         </div>
                     </div>
                 </div>

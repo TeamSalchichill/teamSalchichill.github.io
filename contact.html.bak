@@ -98,33 +98,7 @@
                         <div class="wow fadeInUp" data-wow-delay="0.2s">
                             <form>
                                 <div class="row g-3">
-                                    <div class="col-md-6">
-                                        <div class="form-floating">
-                                            <input type="text" class="form-control" id="name" placeholder="Your Name">
-                                            <label for="name">Your Name</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="form-floating">
-                                            <input type="email" class="form-control" id="email" placeholder="Your Email">
-                                            <label for="email">Your Email</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="form-floating">
-                                            <input type="text" class="form-control" id="subject" placeholder="Subject">
-                                            <label for="subject">Subject</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="form-floating">
-                                            <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 150px"></textarea>
-                                            <label for="message">Message</label>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
-                                    </div>
+                                  <div data-testid="LinkFormInner" class="sc-bdfBwQ cXwzZH"><form data-testid="FormLinkContactForm" class="sc-bdfBwQ sc-gsTCUz kBJXyF bhdLno"><div class="sc-bdfBwQ ghtexS"><div class="sc-bdfBwQ pkAuV"><div class="sc-bdfBwQ sc-gsTCUz cmjfXF bhdLno"><input name="name" placeholder="Name*" data-testid="contact-form-name" type="text" class="sc-jrAGrp sc-gsxnyZ fbVqho hsJTNj" value=""></div></div></div><div class="sc-bdfBwQ ghtexS"><div class="sc-bdfBwQ pkAuV"><div class="sc-bdfBwQ sc-gsTCUz cmjfXF bhdLno"><input name="email" placeholder="Email address*" data-testid="contact-form-email" type="text" class="sc-jrAGrp sc-gsxnyZ fbVqho hsJTNj" value=""></div></div></div><div class="sc-bdfBwQ ghtexS"><div class="sc-bdfBwQ pkAuV"><div class="sc-bdfBwQ pkAuV"><div class="sc-bdfBwQ sc-gsTCUz cmjfXF bhdLno"><textarea name="message" placeholder="Message*" data-testid="contact-form-message" maxlength="500" type="text" class="sc-jrAGrp sc-gsxnyZ dOClco hsJTNj"></textarea></div></div><div class="sc-bdfBwQ sc-bXDlPE dUYVkd jFuWAH"><div class="sc-bdfBwQ sc-gsTCUz jWRvlO bhdLno"><p class="sc-hKgILt dgMAUY">500 characters left</p></div></div></div></div><div class="sc-bdfBwQ sc-gsTCUz jzOSdo bhdLno"><div class="sc-bdfBwQ jAmcnV"><div data-testid="ReCaptchaInput"><div><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdGYT4cAAAAANW9oE1Sa2AxBi8b9ZAbmvYBPnZm&amp;co=aHR0cHM6Ly9saW5rdHIuZWU6NDQz&amp;hl=es&amp;type=image&amp;v=Km9gKuG06He-isPsP6saG8cn&amp;theme=light&amp;size=normal&amp;badge=bottomright&amp;cb=8ori1hvtr6m8" width="304" height="78" role="presentation" name="a-f3wgsaosk24f" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></div></div></div><div class="sc-bdfBwQ kUIaSD"><p data-testid="FormLinkTermsConditions" class="sc-hKgILt dqPSuW">By submitting your contact details, you are providing your data to teamsalchichill who may contact you.</p></div><button color="palette.white" data-testid="ContactFormSubmit" type="submit" height="x10" class="sc-pFZIQ bQgqvU" disabled="">Send</button></form></div>
                                 </div>
                             </form>
                         </div>
@@ -143,14 +117,13 @@
             <div class="container">
                 <div class="copyright">
                     <div class="row">
-                        <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                             <a class="border-bottom" href="#">@TeamSalchichill</a>  
-							
-							<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-							
-                        </div>
                         <div class="col-md-6 text-center text-md-end">
-                            
+							<a href="https://teamsalchichill.itch.io/la-defensa-de-trost" target="_blank"> <img src="img/ichio.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a href="https://twitter.com/TeamSalchichill?s=20" target="_blank"> <img src="img/twitter.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a href="https://www.youtube.com/channel/UCJ1A2R_n6q1AA3j-7plyBLg" target="_blank"> <img src="img/youtube.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a href="https://www.instagram.com/teamsalchichill/" target="_blank"> <img src="img/instagram.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a href="https://www.tiktok.com/@teamsalchichill" target="_blank"> <img src="img/tiktok.png" alt="Pasteles" style="width: 80px;" /> </a>
+							<a class="border-bottom" href="https://linktr.ee/teamsalchichill">@TeamSalchichill</a> 
                         </div>
                     </div>
                 </div>

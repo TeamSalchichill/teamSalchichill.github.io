@@ -111,6 +111,27 @@
                                 </div>
                             </a>
                         </li>
+						<li class="nav-item">
+                            <a class="d-flex align-items-center text-start mx-3 me-0 pb-3" data-bs-toggle="pill" href="#tab-4">                              
+                                <div class="ps-3">
+                                    <h6 class="mt-n1 mb-0">Valhalla</h6>
+                                </div>
+                            </a>
+                        </li>
+						<li class="nav-item">
+                            <a class="d-flex align-items-center text-start mx-3 me-0 pb-3" data-bs-toggle="pill" href="#tab-5">                              
+                                <div class="ps-3">
+                                    <h6 class="mt-n1 mb-0">Selva Mágica</h6>
+                                </div>
+                            </a>
+                        </li>
+						<li class="nav-item">
+                            <a class="d-flex align-items-center text-start mx-3 me-0 pb-3" data-bs-toggle="pill" href="#tab-6">                              
+                                <div class="ps-3">
+                                    <h6 class="mt-n1 mb-0">Trost Sumido en el Infierno</h6>
+                                </div>
+                            </a>
+                        </li>
                     </ul>
                     <div class="tab-content">
 					
@@ -427,7 +448,7 @@
 								
 								 <div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/CastilloRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/BaseAtlantis.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
                                                 <span>Atlantis</span>
@@ -503,7 +524,7 @@
 								
 									<div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/munecoRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/tirachinas.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
                                                 <span>Suw Balony</span>
@@ -529,7 +550,7 @@
 								
 								 <div class="col-lg-6">
                                     <div class="d-flex align-items-center">
-                                        <img class="flex-shrink-0 img-fluid rounded" src="img/GuardianRedes.png" alt="" style="width: 80px;">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Pistola.png" alt="" style="width: 80px;">
                                         <div class="w-100 d-flex flex-column text-start ps-4">
                                             <h5 class="d-flex justify-content-between border-bottom pb-2">
                                                 <span>Pium</span>
@@ -553,6 +574,462 @@
                                     </div>
                                 </div>
 								
+								
+                            </div>
+                        </div>
+						
+						<!-- Valhalla -->
+                        <div id="tab-4" class="tab-pane fade show p-0">
+                            <div class="row g-4">
+													
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Firulais.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Firulais</span>
+                                            </h5>
+                                            <small class="fst-italic">Jefe final Valhalla</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								 <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Base.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Valhalla</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Base principal</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Aren.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Aren</span>  
+                                           </h5>
+                                            <small class="fst-italic">Enemigo mediano</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Thor.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Rey Lothbrock</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Líder</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Valquiria.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Eyra</span>
+                                            </h5>
+                                            <small class="fst-italic">Enemigo mediano</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Aldea.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Beowulf</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Torreta</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Alf.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Alf</span>
+                                                
+                                            </h5>
+                                            <small class="fst-italic">Enemigo pequeño</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+									<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/AltarOdin.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Altar de Odín</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Torreta</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Borj.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Borj</span>
+                                             
+                                            </h5>
+                                            <small class="fst-italic">Enemigo pequeño</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								 <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Valquiria2.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Kiria</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Torreta</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Berquist.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Berquist</span>
+                                            
+                                            </h5>
+                                            <small class="fst-italic">Enemigo pequeño</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								
+                            </div>
+                        </div>
+						
+						<!-- Selva Mágica -->
+                        <div id="tab-5" class="tab-pane fade show p-0">
+                            <div class="row g-4">
+													
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Ogro.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Svinja</span>
+                                            </h5>
+                                            <small class="fst-italic">Jefe final Selva Mágica</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								 <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/BaseF.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Selva Mágica</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Base principal</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Rider.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Voda Rider</span>  
+                                           </h5>
+                                            <small class="fst-italic">Enemigo mediano</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Hada.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Reina Tatinia</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Líder</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Nakaka.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Nakaka</span>
+                                            </h5>
+                                            <small class="fst-italic">Enemigo mediano</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/groot.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Antium</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Torreta</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Goblin.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Magic Go Blin</span>
+                                                
+                                            </h5>
+                                            <small class="fst-italic">Enemigo pequeño</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+									<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/lanzaPinchos.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>ThornGun</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Torreta</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Voda.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Voda</span>
+                                             
+                                            </h5>
+                                            <small class="fst-italic">Enemigo pequeño</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								 <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Vivas.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Viva Porub</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Torreta</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/warfy.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Warfy</span>
+                                            
+                                            </h5>
+                                            <small class="fst-italic">Enemigo pequeño</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								
+                            </div>
+                        </div>
+						
+						<!-- Trost -->
+                        <div id="tab-6" class="tab-pane fade show p-0">
+                            <div class="row g-4">
+													
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Diablo.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Pyerno</span>
+                                            </h5>
+                                            <small class="fst-italic">Jefe final Trost Sumido en el Infierno</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								 <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/BaseI.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Trost Sumido en el Infierno</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Base principal</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Golem.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Keryon</span>  
+                                           </h5>
+                                            <small class="fst-italic">Enemigo mediano</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Mosquito.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Rey Bubuyog</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Líder</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Toby.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Toby</span>
+                                            </h5>
+                                            <small class="fst-italic">Enemigo mediano</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/canon.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Charmando</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Torreta</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/FireBlin.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Fire Blin</span>
+                                                
+                                            </h5>
+                                            <small class="fst-italic">Enemigo pequeño</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+									<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/hihell.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Hihell</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Torreta</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Sunog.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Sunog</span>
+                                             
+                                            </h5>
+                                            <small class="fst-italic">Enemigo pequeño</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								 <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/TorreRecursos.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Eklypsion</span>
+                                              
+                                            </h5>
+                                            <small class="fst-italic">Torreta</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/Tobyfogo.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Toby do fogo</span>
+                                            
+                                            </h5>
+                                            <small class="fst-italic">Enemigo pequeño</small>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								<div class="col-lg-6">
+                                    <div class="d-flex align-items-center">
+                                        <img class="flex-shrink-0 img-fluid rounded" src="img/o.png" alt="" style="width: 80px;">
+                                        <div class="w-100 d-flex flex-column text-start ps-4">
+                                            <h5 class="d-flex justify-content-between border-bottom pb-2">
+                                                <span>Mago Oscuro</span>
+                                            
+                                            </h5>
+                                            <small class="fst-italic">Enemigo final La Defensa de Trost</small>
+                                        </div>
+                                    </div>
+                                </div>
 								
                             </div>
                         </div>
