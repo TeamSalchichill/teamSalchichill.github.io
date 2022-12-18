@@ -89,7 +89,7 @@
 				 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item text-center rounded overflow-hidden">
                             <div class="rounded-circle overflow-hidden m-4">
-                                <img class="img-fluid" src="img/about-4.jpg" alt="">
+                                <img class="img-fluid" src="img/Logo.png" alt="">
                             </div>
                             <h5 class="mb-0">La defensa de Trost</h5>
                             <small>Frenético juego que junta el tower defense y el roguelike a lo largo de diferentes mundos con una gran cantidad de mecánicas, enemigos y torres</small>
